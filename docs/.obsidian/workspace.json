@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "a922f8de750a66ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3ebcf6784d77c0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c5e179fd6e9e612",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Divisão dos projetos 22-07-2025.canvas",
+                "viewState": {
+                  "x": 540,
+                  "y": 1932.2138364779871,
+                  "zoom": -3.0454019398960424
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Divisão dos projetos 22-07-2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "211a9d3155700d92",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d1a4e4b9354db05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "497fc1765a676bfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ed6501afe87865f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "edeafadda09bd4ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b29c5a6ecd4f9c97",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef2d03085ee08708",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3183f55de9a4739c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "5653c7634c8fee92",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "1bdc9e36bf9651e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4bee46f7d28d0ebb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "497fc1765a676bfa",
+  "lastOpenFiles": [
+    "Diagramas/Class Diagram0.asta",
+    "Diagramas",
+    "Untitled.md",
+    "Divisão dos projetos 22-07-2025.canvas",
+    "~$ Maker para organização de projetos.docx",
+    "IA Maker para organização de projetos.docx",
+    "Trabalho Template quase limpo.docx",
+    "~$dando Modelos de Linguagem de Grande Escala.docx",
+    "~WRL0004.tmp",
+    "~WRD0003.tmp",
+    "~WRD0002.tmp",
+    "Welcome.md",
+    "Rodando Modelos de Linguagem de Grande Escala.docx"
+  ]
+}
