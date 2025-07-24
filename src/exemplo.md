@@ -8,8 +8,8 @@ Ideal para testes, demonstrações e projetos offline com performance leve e res
 - Placa de vídeo com **8GB de VRAM** ou superior
 - Lembre de instalar um compilador C/C++ recomenda-se a
  utilização do Build Tools do Visual Studio
-- é necessário caso queira utilizar a gpu instalar o ToolKit CUDA da NVIDIA 
-- é necessario instalar o CMAKE TOOLS
+- é necessário caso queira utilizar a gpu instalar o ToolKit CUDA da NVIDIA --> `https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local`
+- é necessario instalar o CMAKE TOOLS --> `https://cmake.org/download/`
 - Instalação das bibliotecas:
 
 ```bash
