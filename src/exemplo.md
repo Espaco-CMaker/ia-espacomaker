@@ -24,7 +24,7 @@ pip install --verbose .[server] // O processo pode demorar
 - `app.py`: Interface Streamlit com campo de entrada e resposta
 - `model/`: Pasta onde deve estar o arquivo `.gguf` do modelo
 
-- Arquivo `.gguf` que deve ser baixado diretamento do repositorio do github ou HuggingFace do modelo de preferência usado no exemplo --> "https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/tree/main"
+- Arquivo `.gguf` que deve ser baixado diretamento do repositorio do github ou HuggingFace do modelo de preferência usado no exemplo --> `https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/tree/main`
 
 ## 🧪 Código de Exemplo (`app.py`)
 ```python
