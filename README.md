@@ -3,10 +3,7 @@
 Bem-vindo ao repositório oficial do Projeto de Inteligência Artificial do Espaço Maker! 
 Nosso objetivo é desenvolver soluções inteligentes explorando conceitos de IA, aprendizado de máquina, redes neurais e automação.
 
-## 📅 Cronograma Inicial
-- **00/00 a 00/00**: Levantamento do estado da arte em IA.
-- **00/00 a 00/00**: Definição de requisitos e escopo.
-- **00/00 a 00/00**: Prototipagem inicial dos modelos.
+## 📅 Cronograma está disponivel na aba "Projects" do GitHub
 
 *(Cronograma sujeito a atualizações conforme andamento do projeto)*
 
