@@ -3,10 +3,7 @@
 Bem-vindo ao repositório oficial do Projeto de Inteligência Artificial do Espaço Maker! 
 Nosso objetivo é desenvolver soluções inteligentes explorando conceitos de IA, aprendizado de máquina, redes neurais e automação.
 
-## 📅 Cronograma Inicial
-- **00/00 a 00/00**: Levantamento do estado da arte em IA.
-- **00/00 a 00/00**: Definição de requisitos e escopo.
-- **00/00 a 00/00**: Prototipagem inicial dos modelos.
+## 📅 Cronograma está disponível na aba "Projects" do github 
 
 *(Cronograma sujeito a atualizações conforme andamento do projeto)*
 
@@ -17,8 +14,8 @@ Nosso objetivo é desenvolver soluções inteligentes explorando conceitos de IA
 - `notebooks/`: Jupyter Notebooks de estudos e experimentos.
 
 ## 📚 Tecnologias e Ferramentas
-- Python 3.10+
-- Bibliotecas: TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy
+- software: Python 3.10+, n8n
+- Bibliotecas: TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Streamlit
 - Plataforma de pesquisa: Hugging Face
 - Controle de versão: Git e GitHub
 
