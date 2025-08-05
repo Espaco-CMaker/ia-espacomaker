@@ -1,0 +1,116 @@
+# Persona (Sobre os Clientes)
+
+## Quem são os clientes ideais?
+
+Projetistas, makers, estudantes e professores que atuam em espaços colaborativos e desenvolvem projetos práticos.
+
+---
+
+# Problema (Sobre os Clientes)
+
+## Quais dificuldades esses clientes enfrentam hoje?
+
+Falta de registro sistemático dos projetos (etapas, decisões, aprendizados).
+
+---
+
+# Primeiros Usuários (Early Adopters)
+
+## Quem são os primeiros usuários que podem adotar a solução?
+
+Membros ativos de espaços makers (estudantes, voluntários, monitores).
+
+---
+
+# Causa Raiz do Problema
+
+## Quais são as causas profundas que geram esse problema?
+
+- Falta de registro estruturado dos projetos desenvolvidos no espaço.  
+- Dificuldade dos associados em organizar ideias, documentação técnica e etapas dos projetos.  
+- Carência de suporte contínuo e personalizado para orientar o desenvolvimento de novos projetos.  
+- Ausência de ferramentas integradas e intuitivas específicas para o ambiente maker.
+
+---
+
+# Jornada Atual (Sobre o Problema)
+
+## Como é a jornada atual do cliente para transformar sua ideia em um objeto físico?
+
+- O cliente pensa em uma ideia.  
+- Pesquisa referências de forma dispersa (YouTube, Google, fóruns).  
+- Compartilha informalmente com o grupo (verbalmente, WhatsApp, papel...).  
+- Tenta replicar tutoriais com limitações de contexto.  
+- Enfrenta obstáculos (tempo, recursos, comunicação).  
+- Tem dificuldade em adaptar o projeto às ferramentas e materiais disponíveis no espaço.  
+- Muitas vezes, não documenta nem compartilha o projeto de forma estruturada.  
+- O projeto se perde ou é continuado por outra pessoa sem contexto.
+
+---
+
+# Soluções Disponíveis (Sobre o Problema)
+
+## Quais soluções já existem para esse problema?
+
+- Fóruns online como Instructables e Hackster.io  
+- Plataformas como Notion, Google Docs e planilhas para documentação manual  
+- Diários de bordo escritos (pouco usados ou não atualizados)  
+- Softwares CAD com gestão de projeto (Fusion 360, Tinkercad com anotações)  
+- IA genérica (ChatGPT, Copilot) usada de forma desconectada do espaço físico  
+- GitHub (mais técnico e pouco acessível para projetos não digitais)
+
+---
+
+# Gatilhos Para Agir
+
+## O que motiva o cliente a buscar uma solução?
+
+- Desejo de registrar suas criações de forma prática e valorizada  
+- Interesse em compartilhar o projeto com a comunidade ou em redes sociais  
+- Necessidade de apresentar o projeto em eventos, feiras ou como portfólio  
+- Frustração ao esquecer etapas ou configurações importantes  
+
+---
+
+# Influências para Agir
+
+## O que influencia positivamente a decisão do cliente?
+
+- Facilidade de uso da ferramenta de IA dentro do próprio Espaço CMaker  
+- Integração com projetos anteriores ou repositórios existentes  
+- Recomendação de outros membros  
+- Demonstração prática com resultados visíveis e aplicáveis  
+
+---
+
+# Influências Para Não Agir
+
+## O que impede o cliente de tomar uma decisão?
+
+- Medo de não saber usar a ferramenta  
+- Falta de tempo ou prioridade para documentar  
+- Percepção de que o projeto “ainda não está pronto”  
+- Dúvidas sobre a real utilidade da IA no seu processo  
+
+---
+
+# Comportamento Online
+
+## O que o cliente faz na internet relacionado ao problema?
+
+- Busca tutoriais e exemplos no YouTube e Google  
+- Participa de grupos de Facebook, Discord ou Telegram sobre Arduino, impressão 3D e projetos DIY  
+- Salva links, PDFs e imagens de referência, mas raramente organiza tudo  
+- Eventualmente usa IA (ChatGPT) para tirar dúvidas pontuais  
+
+---
+
+# Comportamento Offline
+
+## Como o cliente se comporta fora do ambiente online em relação ao problema?
+
+- Trabalha em projetos físicos com tentativa e erro  
+- Pede ajuda a colegas ou mentores dentro do espaço  
+- Muitas vezes precisa de incentivo para documentar seus projetos e transformá-los em ativos permanentes do Espaço CMaker  
+- Recebe estímulo para publicar seus projetos como referência para outros associados  
+- O fluxo proposto com o Maker IA prevê que, após revisão, os projetos documentados com auxílio da IA possam ser publicados automaticamente no site do Espaço CMaker por meio de um plugin integrado ao WordPress  
