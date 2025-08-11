@@ -55,7 +55,7 @@ Desenvolver e implementar um agente de Inteligência Artificial capaz de organiz
 
 Para o desenvolvimento da pesquisa, foram utilizados materiais específicos que garantiram a viabilidade técnica e a execução das etapas. Foi empregado um servidor ou computador local como ambiente principal de hospedagem do agente de inteligência artificial, permitindo controle total do processamento e maior segurança dos dados manipulados. Esse servidor foi configurado com capacidade suficiente para suportar as rotinas de treinamento e testes, além de manter a comunicação com as demais ferramentas integradas ao sistema.
 
-Um banco de dados relacional, inicialmente **SQLite** para prototipagem rápida e posteriormente **PostgreSQL** para produção, foi implementado para armazenar registros de uso, logs de execução, métricas e dados históricos de projetos. Essa estrutura de armazenamento possibilitou consultas rápidas, versionamento de dados e integração eficiente com os módulos em **Python** utilizados no desenvolvimento.
+Um banco de dados relacional, inicialmente **MongoDB** para prototipagem rápida e posteriormente **MySQL** para produção, foi implementado para armazenar registros de uso, logs de execução, métricas e dados históricos de projetos. Essa estrutura de armazenamento possibilitou consultas rápidas, versionamento de dados e integração eficiente com os módulos em **Python** utilizados no desenvolvimento.
 
 Foram utilizadas ferramentas de desenvolvimento em **Python**, contemplando frameworks de inteligência artificial como **TensorFlow** e **PyTorch** para a criação e treinamento de modelos, além de bibliotecas de APIs que facilitaram a comunicação entre diferentes camadas do sistema. Essa escolha pela linguagem Python e seus frameworks foi feita devido à ampla documentação, comunidade ativa e grande variedade de bibliotecas específicas para aprendizado de máquina e automação.
 
@@ -71,17 +71,13 @@ Considerando o cronograma proposto no plano de trabalho, serão apresentados o d
 
 ### 4.1 Processos e/ou Procedimentos de Desenvolvimento Tecnológico
 
-Projetos de **PIBITI** têm como objetivo adicional práticas conectadas ao desenvolvimento teórico aplicado, relacionadas à criação de tecnologia e inovação. Dessa forma, será descrito o processo de produção do artefato (produto ou processo) até o momento, seu estágio atual e possíveis alternativas para produção.
+desenvolvimento teórico aplicado, relacionadas à criação de tecnologia e inovação. Dessa forma, será descrito o processo de produção do artefato (produto ou processo) até o momento, seu estágio atual e possíveis alternativas para produção.
 
 ---
 
 ## 5. Etapas Futuras
 
-Considerando o cronograma proposto no plano de trabalho, será feita a análise da adequação das próximas etapas ao tempo disponível para conclusão.
-
-O calendário com as datas importantes da Iniciação Científica está disponível na página da IC no site da PUCPR.  
-
-O relatório deve ser corrigido pelo orientador e submetido à coordenação da Iniciação Científica exclusivamente por meio eletrônico.  
+Considerando o cronograma proposto no plano de trabalho, será feita a análise da adequação das próximas etapas ao tempo disponível para conclusão.   
 
 É fundamental revisar o texto gramatical e ortograficamente antes da entrega.
 
@@ -95,5 +91,3 @@ As referências devem seguir o **Guia para Normalização de Trabalhos Acadêmic
 
 ## Anexos
 
-**Outras Atividades Realizadas:**  
-Anexar cópia da declaração/certificado de participação no **XXIX SEMIC** e outros eventos científicos, ou outras atividades relevantes para a formação como pesquisador.
