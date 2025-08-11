@@ -26,7 +26,9 @@ Membros ativos de espaços makers (estudantes, voluntários, monitores).
 
 ## Quais são as causas profundas que geram esse problema?
 
-Ausência de ferramentas integradas e intuitivas específicas para o ambiente maker.
+•	Falta de registro estruturado dos projetos desenvolvidos no espaço.
+•	Dificuldade dos associados em organizar ideias, documentação técnica e etapas dos projetos.
+•	Carência de suporte contínuo e personalizado para orientar o desenvolvimento de novos projetos.
 
 ---
 
@@ -43,6 +45,14 @@ Faz protótipos sem registrar decisões →
 Enfrenta obstáculos (tempo, recursos, comunicação) →
 
 O projeto se perde ou é continuado por outra pessoa sem contexto.
+
+•	O cliente pensa em uma ideia.
+•	Pesquisa referências de forma dispersa (YouTube, Google, fóruns).
+•	Tenta replicar tutoriais com limitações de contexto.
+•	Tem dificuldade em adaptar o projeto às ferramentas e materiais disponíveis no espaço.
+•   Faz protótipos sem registrar decisões
+•	Muitas vezes, não documenta nem compartilha o projeto de forma estruturada.
+•   Enfrenta obstáculos (tempo, recursos, comunicação)
 
 ---
 
