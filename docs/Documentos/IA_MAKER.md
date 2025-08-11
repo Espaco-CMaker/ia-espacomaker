@@ -1,4 +1,4 @@
-# Relatório Parcial - PIBIC 01/02
+# Relatório Parcial
 
 ## Espaço CMaker  
 **Fazendo Fazedores e Criando Conexões**
