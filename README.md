@@ -1,4 +1,4 @@
-# Projeto de Inteligência Artificial - Espaço Maker
+# Projeto de Inteligência Artificial - Espaço CMaker
 
 Bem-vindo ao repositório oficial do Projeto de Inteligência Artificial do Espaço Maker! 
 Nosso objetivo é desenvolver soluções inteligentes explorando conceitos de IA, aprendizado de máquina, redes neurais e automação.
